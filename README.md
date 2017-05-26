@@ -15,5 +15,5 @@ Here is a preview ! <br/>
 A function in the code allows you to pause the animation.
 If the mouse click and then activate the animation will play.
 
-Have Fun and Enjoy! <br/>
+Have Fun and Enjoy ! <br/>
 Feel free to change the code or replace / add your own content. License and CC0 !
